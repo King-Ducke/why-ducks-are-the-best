@@ -1,1 +1,1 @@
-# first-hack-club-website
+# whyducksarethebest
