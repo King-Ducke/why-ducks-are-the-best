@@ -5,28 +5,28 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-color: #feee8c;
-    color: black;
+    color: #93c572;
     font-family: "Trebuchet MS", "Tahoma", "Verdana", sans-serif;
     padding: 20px;
     line-height: 1.6;
 }
 
 h1 {
-    color: black;
+    color: green;
     text-align: center;
     font-size: 2.5em;
     margin-bottom: 25px;
 }
 
 h2 {
-    color: black;
+    color: green;
     margin-top: 30px;
     margin-bottom: 20px;
     font-size: 2em;
 }
 
 a {
-    color: black;
+    color: #93c572;
     text-decoration: underline;
 }
 
